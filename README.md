@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohamed Benkasim  
 
-🚀 **Junior Full-Stack Web Developer from Morocco**  
-🎓 OFPPT student & self-learner passionate about building modern web applications  
+ **Junior Full-Stack Web Developer from Morocco**  
+ OFPPT student & self-learner passionate about building modern web applications  
 
 ---
 
@@ -12,7 +12,7 @@ I enjoy creating web applications, improving my coding skills, and exploring new
 
 ---
 
-## 🔭 What I'm Currently Working On  
+##  What I'm Currently Working On  
 
 - 📚 Studying at **OFPPT**  
 - 💻 Building web applications  
@@ -21,7 +21,7 @@ I enjoy creating web applications, improving my coding skills, and exploring new
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 ### Frontend  
 - ⚛️ React  
