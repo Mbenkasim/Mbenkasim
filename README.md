@@ -1,6 +1,4 @@
-<div align="center" style="padding:28px;border-radius:20px;
-background:linear-gradient(135deg,#0f172a,#020617);
-border:1px solid rgba(255,255,255,.08);">
+<div align="center" style="padding:30px;background:#020617;border-radius:20px;border:1px solid #1e293b;">
 
   <!-- LOGO PLACEHOLDER -->
   <div style="
@@ -18,13 +16,13 @@ border:1px solid rgba(255,255,255,.08);">
     MB
   </div>
 
-  <h1 style="margin:0;color:#fff;font-size:42px;font-family:system-ui;">
+  <h1 style="color:white;font-size:42px;margin:0;">
     Mohamed <span style="color:#7c3aed;">Benkasim</span>
   </h1>
 
-  <p style="margin-top:10px;max-width:780px;color:rgba(255,255,255,.75);font-size:16px;line-height:1.7;">
-    Junior Full-Stack Web Developer • OFPPT Student • Self-Learner  
-    Passionné par la création d’applications web modernes, performantes et utiles dans le monde réel.
+  <p style="max-width:820px;color:#94a3b8;font-size:16px;line-height:1.8;">
+    Junior Full-Stack Web Developer • OFPPT Student • Self-Learner<br/>
+    Passionné par la création d’applications web modernes, SaaS et solutions business réelles.
   </p>
 
 </div>
@@ -33,94 +31,89 @@ border:1px solid rgba(255,255,255,.08);">
 
 <hr/>
 
-<h2>🚀 À propos de moi</h2>
-
+<h2>About Me</h2>
 <p>
-Je suis un développeur full-stack junior basé au Maroc, spécialisé dans le développement
-d’applications web avec une architecture propre et une interface moderne.
-Je m’intéresse particulièrement aux projets SaaS, dashboards et solutions business.
+Développeur full-stack junior basé au Maroc, spécialisé dans la création d’applications web
+scalables avec une architecture propre, une logique métier claire et une interface moderne.
+Je m’intéresse particulièrement aux projets SaaS, dashboards et plateformes de gestion.
 </p>
 
 <hr/>
 
-<h2>🧠 Ce que je fais actuellement</h2>
-
+<h2>Currently Working On</h2>
 <ul>
-  <li>📚 Étudiant à l’OFPPT</li>
-  <li>💻 Développement de projets full-stack réels</li>
-  <li>⚙️ Amélioration continue de mes compétences techniques</li>
-  <li>🚀 Construction de projets SaaS comme <b>SmartBiz</b></li>
+  <li>Full-stack web development</li>
+  <li>SaaS projects (SmartBiz)</li>
+  <li>Improving clean architecture & best practices</li>
+  <li>Real-world business applications</li>
 </ul>
 
 <hr/>
 
-<h2>🛠 Tech Stack</h2>
+<h2>Tech Stack</h2>
 
-<!-- FRONTEND -->
 <h3>Frontend</h3>
-<div style="display:flex;gap:10px;flex-wrap:wrap;">
-  <div style="padding:10px 14px;border-radius:12px;background:#0f172a;border:1px solid #334155;">HTML</div>
-  <div style="padding:10px 14px;border-radius:12px;background:#0f172a;border:1px solid #334155;">CSS</div>
-  <div style="padding:10px 14px;border-radius:12px;background:#0f172a;border:1px solid #334155;">JavaScript</div>
-  <div style="padding:10px 14px;border-radius:12px;background:#0f172a;border:1px solid #334155;">React</div>
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+</p>
 
-<br/>
-
-<!-- BACKEND -->
 <h3>Backend</h3>
-<div style="display:flex;gap:10px;flex-wrap:wrap;">
-  <div style="padding:10px 14px;border-radius:12px;background:#020617;border:1px solid #334155;">Node.js</div>
-  <div style="padding:10px 14px;border-radius:12px;background:#020617;border:1px solid #334155;">PHP</div>
-  <div style="padding:10px 14px;border-radius:12px;background:#020617;border:1px solid #334155;">Laravel</div>
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
+</p>
 
-<br/>
-
-<!-- DATABASE -->
 <h3>Databases</h3>
-<div style="display:flex;gap:10px;flex-wrap:wrap;">
-  <div style="padding:10px 14px;border-radius:12px;background:#020617;border:1px solid #334155;">MySQL</div>
-  <div style="padding:10px 14px;border-radius:12px;background:#020617;border:1px solid #334155;">MongoDB</div>
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+</p>
 
-<br/>
-
-<!-- TOOLS -->
 <h3>Tools</h3>
-<div style="display:flex;gap:10px;flex-wrap:wrap;">
-  <div style="padding:10px 14px;border-radius:12px;background:#020617;border:1px solid #334155;">Git</div>
-  <div style="padding:10px 14px;border-radius:12px;background:#020617;border:1px solid #334155;">Docker</div>
-  <div style="padding:10px 14px;border-radius:12px;background:#020617;border:1px solid #334155;">Figma</div>
-</div>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+</p>
 
 <hr/>
 
-<h2>🌟 Objectifs</h2>
+<h2>Main Project</h2>
+<p>
+<b>SmartBiz</b> — Intelligent Business Management SaaS<br/>
+A modern platform to manage products, clients, sales, profit, and business insights with a clean UI and scalable backend.
+</p>
 
+<hr/>
+
+<h2>Goals</h2>
 <ul>
-  <li>Devenir un développeur full-stack professionnel</li>
-  <li>Créer des applications SaaS scalables</li>
-  <li>Travailler sur des projets concrets et utiles</li>
-  <li>Continuer à apprendre et évoluer dans le domaine du web</li>
+  <li>Become a professional full-stack developer</li>
+  <li>Build scalable SaaS applications</li>
+  <li>Work on real-world business solutions</li>
+  <li>Continuously improve technical and design skills</li>
 </ul>
 
 <hr/>
 
-<h2>📫 Me contacter</h2>
-
+<h2>Contact</h2>
 <p>
-📧 Email : <b>mohamedbenkasim6@gmail.com</b><br/>
-🔗 GitHub : <b>github.com/Mbenkasim</b><br/>
-🔗 LinkedIn : <b>linkedin.com/in/mohamed-benkasim</b>
+Email: <b>mohamedbenkasim6@gmail.com</b><br/>
+GitHub: <b>github.com/Mbenkasim</b><br/>
+LinkedIn: <b>linkedin.com/in/mohamed-benkasim</b>
 </p>
 
 <div align="center" style="
-margin-top:20px;
-padding:14px;
+margin-top:24px;
+padding:16px;
 border-radius:14px;
 background:rgba(124,58,237,.1);
 border:1px solid rgba(124,58,237,.35);
-font-weight:700;">
-Thanks for visiting my profile 🚀
+font-weight:700;
+color:white;">
+Thanks for visiting my profile
 </div>
