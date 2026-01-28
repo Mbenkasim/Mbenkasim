@@ -82,13 +82,40 @@ Je m’intéresse particulièrement aux projets SaaS, dashboards et plateformes 
 
 <hr/>
 
-<h2>Main Project</h2>
+<hr/>
+
+<h2>Main Projects</h2>
+
+<h3>SmartBiz</h3>
 <p>
-<b>SmartBiz</b> — Intelligent Business Management SaaS<br/>
-A modern platform to manage products, clients, sales, profit, and business insights with a clean UI and scalable backend.
+<b>SmartBiz</b> is an intelligent SaaS web application designed for small and medium businesses.
+It helps manage products, clients, sales, stock, and profit with a modern dashboard and business insights.
+Built with a scalable architecture and a clean SaaS UI.
 </p>
 
-<hr/>
+<ul>
+  <li>Product & stock management</li>
+  <li>Client CRM</li>
+  <li>Sales & invoicing</li>
+  <li>Profit & business insights</li>
+  <li>Modern SaaS dashboard</li>
+</ul>
+
+<br/>
+
+<h3>QR Code Restaurant</h3>
+<p>
+<b>QR Code Restaurant</b> is a digital menu and ordering system for restaurants.
+Customers scan a QR code to view the menu, place orders, and interact with the restaurant without downloading an app.
+</p>
+
+<ul>
+  <li>QR code-based digital menu</li>
+  <li>Real-time order management</li>
+  <li>Admin dashboard for menu & orders</li>
+  <li>Mobile-first customer interface</li>
+  <li>Modern restaurant workflow</li>
+</ul>
 
 <h2>Goals</h2>
 <ul>
